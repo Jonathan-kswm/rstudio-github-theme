@@ -903,6 +903,10 @@ span .GFUP41PBN-B.ace_constant.ace_language {
   color: #e6edf3;
 }
 
+.ace_punctuation.ace_keyword.ace_operator {
+  color: #e6edf3;
+}
+
 .ace_constant {
   color: #79c0ff;
 

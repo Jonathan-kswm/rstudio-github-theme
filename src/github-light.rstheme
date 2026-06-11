@@ -216,6 +216,10 @@ body pre, body code {
   color: #1f2328;
 }
 
+.ace_punctuation.ace_keyword.ace_operator {
+  color: #1f2328;
+}
+
 .ace_constant {
   color: #0550ae;
 }
