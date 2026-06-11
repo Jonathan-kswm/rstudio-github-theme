@@ -899,6 +899,10 @@ span .GFUP41PBN-B.ace_constant.ace_language {
 
 }
 
+.ace_paren.ace_keyword.ace_operator {
+  color: #e6edf3;
+}
+
 .ace_constant {
   color: #79c0ff;
 
@@ -1003,6 +1007,10 @@ span .GFUP41PBN-B.ace_constant.ace_language {
 }
 
 .ace_support.ace_function {
+  color: #d2a8ff;
+}
+
+.ace_identifier.ace_support.ace_function {
   color: #d2a8ff;
 }
 

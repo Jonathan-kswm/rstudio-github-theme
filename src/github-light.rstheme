@@ -212,6 +212,10 @@ body pre, body code {
   color: #cf222e;
 }
 
+.ace_paren.ace_keyword.ace_operator {
+  color: #1f2328;
+}
+
 .ace_constant {
   color: #0550ae;
 }
@@ -229,6 +233,10 @@ body pre, body code {
 }
 
 .ace_support.ace_function {
+  color: #8250df;
+}
+
+.ace_identifier.ace_support.ace_function {
   color: #8250df;
 }
 
