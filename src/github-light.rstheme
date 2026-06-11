@@ -209,7 +209,7 @@ body pre, body code {
 }
 
 .ace_keyword.ace_operator {
-  color: #1f2328;
+  color: #cf222e;
 }
 
 .ace_constant {
@@ -288,6 +288,10 @@ body pre, body code {
 
 .ace_entity.ace_name {
   color: #953800;
+}
+
+.ace_entity.ace_name.ace_function {
+  color: #8250df;
 }
 
 .ace_entity.ace_name.ace_tag {
