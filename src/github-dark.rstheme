@@ -64,12 +64,8 @@ iframe.gwt-Frame.ace_editor_theme:hover {
   border: 1px solid #30363d;
 }
 
-/*Plots viewer*/
+/*Plots viewer: always render the plot as-is (no blending with the dark pane)*/
 iframe#rstudio_plot_image_frame {
-  mix-blend-mode: multiply;
-}
-/* Plots viewer on hover*/
-div.ace_editor_theme:hover iframe#rstudio_plot_image_frame {
   mix-blend-mode: normal;
 }
 
